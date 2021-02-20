@@ -1,0 +1,16 @@
+<pokemons>
+	<pokemon>
+		<name>bulbasaur</name>
+		<habilidade>
+			<velocidade>2</velocidade>
+			<forca>5</forca>
+		</habilidade>
+	</pokemon>
+	<pokemon>
+		<name>charmander</name>
+		<habilidade>
+			<velocidade>2</velocidade>
+			<forca>5</forca>
+		</habilidade>
+	</pokemon>
+</pokemons>
